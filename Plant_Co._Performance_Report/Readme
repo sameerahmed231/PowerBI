@@ -3,6 +3,7 @@ This Power BI dashboard provides an insightful view of sales performance and gro
 it enables users to drill down into key metrics and uncover trends that support informed business decisions.
 
 🔍 **Features**
+
 **Treemap Visualization**
 Highlights the bottom 10 countries based on Year-to-Date (YTD) vs Prior-Year-to-Date (PYTD) sales performance.
 
